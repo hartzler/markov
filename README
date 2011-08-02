@@ -3,3 +3,17 @@ markov chain nonsense generator.  fun for messing around.  Train it with text fr
 cat holmes.txt | ruby markov.rb
 
 Uses the EngTagger http://engtagger.rubyforge.org/ gem.  It tags the senteces pieces for the chain percentiles before usage to make things a little less random.
+
+Generates silly stuff like:
+
+'' I asked .
+'' `` A confidential servant ?
+`` You forget that dreadful vigil ?
+`` My name , '' he asked .
+' said he , `` what on earth do you give me carte blanche to act for you , Miss Stoner , laying my cap on the twentieth of March , 1869 , '' said Sherlock Holmes , stepping over and gone .
+Now we shall see which . They laid me on the other answered with the well-known adventuress , Irene Adler .
+`` No , no doubt that the name was new to me. She wrote me dreadful letters when she met this Lascar scoundrel of whom we are to be probable in your sleep ?
+'' `` But the reason why I had seen little of what he could grasp it there was no furniture save a crippled wretch of hideous aspect , who was also an ex-Australian .
+'' `` It is one of absolute ignorance , and lit the lamp onto the table had not recognised me , then ?
+`` A feeling of dread which it left behind , and possibly other large towns , were within a week when I consider that she came away in different directions , and not me. I read that , homely as it has been referred to some lodgings he had brought back in a hansom and drive to Baker Street rooms , so the place might not take place , where the beryls are , Mr. Holder , we can set it going , and my girl , Miss Hunter.' `` ` The Copper Beeches my life .
+'' `` It ` s work .
