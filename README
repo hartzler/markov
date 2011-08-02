@@ -1,0 +1,5 @@
+markov chain nonsense generator.  fun for messing around.  Train it with text from http://www.gutenberg.org/  Sherlock Holmes is fun.
+
+cat holmes.txt | ruby markov.rb
+
+Uses the EngTagger http://engtagger.rubyforge.org/ gem.  It tags the senteces pieces for the chain percentiles before usage to make things a little less random.
